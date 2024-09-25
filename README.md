@@ -80,3 +80,8 @@ have really made a big difference.
     https://en.wikipedia.org/wiki/Carlos_Slim 
 
    ![image info](./images/carlos_slim_mexicanbusiness.PNG)
+
+17. Chiang Kai-Shek
+    https://en.wikipedia.org/wiki/Chiang_Kai-shek 
+
+   ![image info](./images/chiang_kai_shek_kmt.PNG)
